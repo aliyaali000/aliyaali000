@@ -6,7 +6,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML, CSS, JavaScript
-- 📫 How to reach me: yourmail@gmail.com
+- 📫 How to reach me: aliyaali3824@gmail.com
 
 <h3>Languages and Tools:</h3>
 
